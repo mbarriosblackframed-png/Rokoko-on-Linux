@@ -1,7 +1,7 @@
 # Rokoko Smartsuit Pro II on Linux — Complete Guide
 **by Black Frame Digital** | [blackframed.com](https://blackframed.com) | [linkedin.com/in/manuvfx](https://linkedin.com/in/manuvfx)
 
-> ☕ If this guide helped you, [buy me a coffee](Ko-fi.com/barrmanuel)
+> ☕ If this guide helped you, [buy me a coffee](https://Ko-fi.com/barrmanuel)
 
 ---
 
@@ -323,7 +323,7 @@ Developed by **Manu** — VFX Supervisor, founder of **Black Frame Digital SAS**
 
 - 🌐 [blackframed.com](https://blackframed.com)
 - 💼 [linkedin.com/in/manuvfx](https://linkedin.com/in/manuvfx)
-- ☕ [Buy me a coffee](Ko-fi.com/barrmanuel)
+- ☕ [Buy me a coffee](https://Ko-fi.com/barrmanuel)
 
 ---
 
